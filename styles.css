@@ -1,0 +1,52 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+    margin:0;
+    font-size:15px;
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+    width:50%;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+p{
+    line-height:2;
+    width:40%;
+    color:hsla(0, 0%, 100%, 0.75);
+    font-family: 'Inter', sans-serif;
+}
+
+td{
+    font-weight: bold;
+    color:hsla(0, 0%, 100%, 0.6);
+}
+
+.top-div{
+    width:70%;
+    margin:150px auto;
+    background-color: hsl(244, 38%, 16%);
+    position:relative;
+}
+
+.inner-div{
+    padding:50px;
+    text-align:left;
+}
+
+img{
+    width:50%;
+    height:100%;
+    position:absolute;
+    right:0;
+}
+
+.table-div{
+    text-align:left;
+    padding:0 50px 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+span{
+    color:hsl(277, 64%, 61%);
+}
